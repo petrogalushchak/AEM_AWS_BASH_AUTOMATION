@@ -94,8 +94,8 @@ function check_prod {
 check_author_ip
 
 if [ "$ENV" == "dev"] then
-	check_publisher_ip
-	check_dispatcher_ip
+	check_publisher_ip 1
+	check_dispatcher_ip 1
 fi
 
 if [ "$ENV" == "stage"] then
