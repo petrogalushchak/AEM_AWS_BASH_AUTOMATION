@@ -1,11 +1,15 @@
 127.0.0.1   localhost localhost.localdomain
 
-127.0.0.1 author
-127.0.0.1 publisher1
-127.0.0.1 publisher2
-127.0.0.1 publisher3
-127.0.0.1 publisher4
-127.0.0.1 dispatcher1
-127.0.0.1 dispatcher2
-127.0.0.1 dispatcher3
-127.0.0.1 dispatcher4
+127.0.0.2 author
+127.0.0.3 publisher1
+127.0.0.4 publisher2
+127.0.0.5 publisher3
+127.0.0.6 publisher4
+127.0.0.7 prepublisher1
+127.0.0.8 prepublisher2
+127.0.0.9 dispatcher1
+127.0.0.10 dispatcher2
+127.0.0.11 dispatcher3
+127.0.0.12 dispatcher4
+127.0.0.13 predispatcher1
+127.0.0.14 predispatcher2
